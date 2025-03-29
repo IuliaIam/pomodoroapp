@@ -1,16 +1,15 @@
-# xylophone_project
+# Pomodoro App
 
-A new Flutter project.
+Get yourself in the right mental space using the app. 
+Use the timer to check your focus time and breaks!
+Enjoy the time while listening to relaxing music
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How it works:
+simply press on the button that best describes your intention , when the sound stops press the button for a well deserved break!
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/e9a6281e-f850-4bd3-8982-ad5426e3d477)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
